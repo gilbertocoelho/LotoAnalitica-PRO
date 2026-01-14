@@ -1,0 +1,5 @@
+{
+  "name": "LotoAnalitica Pro",
+  "description": "Uma ferramenta avançada para análise estatística e inteligência artificial de sorteios da Lotofácil, lendo arquivos Excel e gerando insights visuais.",
+  "requestFramePermissions": []
+}
